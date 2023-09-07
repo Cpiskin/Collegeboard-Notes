@@ -1,1 +1,10 @@
+There are 3 error types: syntax/compiler, exception, and logic errors.
 
+A string literal is enclosed in double quotes.
+
+An attempt to divide an integer by 0 will lead to an ArithmeticException to occur.
+
+Primitive types are already a part of the java language. Except for String, non-primitive types are generally created by programmers.
+Non-primitive types can use methods to perform actions, but primitives cant't.
+
+To declare a variable that can't be changed we use final.
