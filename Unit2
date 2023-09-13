@@ -1,0 +1,13 @@
+Unit 2 Collegeboard  notes: 
+
+A class is a blueprint for creating objects with the same behavior and defined attributes
+
+An objects is specific centity , made from a class, you can manipılate in your program 
+
+Objects are instances of classes with variables used to name them
+
+Each object has behaviors and attributes that are defined by the class that was used to create it
+
+We can have more than 1 contructor for an object. This is called overloading the constructor
+
+Methods define the behaviors for all objects of a class and consist of a set of instructions for executing the behavior
