@@ -11,3 +11,21 @@ Each object has behaviors and attributes that are defined by the class that was 
 We can have more than 1 contructor for an object. This is called overloading the constructor
 
 Methods define the behaviors for all objects of a class and consist of a set of instructions for executing the behavior
+
+Objects - Instances of Classes: Objects are like the building blocks of a program, representing real-world entities with their own behaviors and attributes.
+
+Creating and Storing Objects (Instantiation): Instantiation is the process of creating an instance of a class, giving us access to its methods and properties.
+
+Calling a Void Method: Void methods perform actions without returning a value, like printing a message to the console or changing an object's state.
+
+Calling a Void Method with Parameters: Parameters allow us to pass specific information to a method, influencing its behavior.
+
+Calling a Non-void Method: Non-void methods return a value after performing some operations, which can be used for further computation or display.
+
+String Objects - Concatenation, Literals, and More: Strings are sequences of characters, often used for text. Concatenation combines strings, and literals are string values written directly into the code.
+
+String Methods: String methods provide various operations for manipulating and extracting information from strings, such as finding the length or converting to uppercase.
+
+Wrapper Classes - Integer and Double: Wrapper classes provide a way to work with primitive types as objects. For example, Integer allows us to treat an int like an object.
+
+Using the Math Class: The Math class provides a set of pre-defined mathematical operations, like square roots and exponentiation, that can be used in calculations.
